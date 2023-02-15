@@ -1,1 +1,42 @@
 
+# execute on branch and event
+
+# Environmental variable
+
+#jobs
+
+#build
+
+# Checkout git repo
+
+# set node js version
+
+# install node dependencies
+
+# run unit test
+
+# creat artifact directory
+
+# zip artifacts
+
+# upload artifacts
+
+# upload arm template to artifact
+
+# deploy
+
+# Download artifact
+
+# unzip artifact
+
+# Azure login
+
+# provision web app, run ARM template
+
+# Deploy artifacts to web app
+
+# run function testing
+
+# use node version
+
+# run functional test
